@@ -1,8 +1,11 @@
 # Site settings
 title: "Identitate Digitală"
 description: "Blog despre identitate digitală, securitate online și tehnologii emergente"
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://lucian23.github.io" # the base hostname & protocol for your site
+baseurl: "" # empty for custom domain
+url: "https://vreau.id" # custom domain for your site
+author: "Lucian"
+email: "leica.lucian@gmail.com"
+github_username: "lucian23"
 
 # Build settings
 markdown: kramdown
