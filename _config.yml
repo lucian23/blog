@@ -1,0 +1,48 @@
+# Site settings
+title: "Identitate Digitală"
+description: "Blog despre identitate digitală, securitate online și tehnologii emergente"
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://lucian23.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Custom settings
+author: "Lucian"
+email: "leica.lucian.QvreauID@blogger.com"
+github_username: "lucian23"
+twitter_username: ""
+
+# Social links
+social:
+  name: "Lucian"
+  links:
+    - "https://github.com/lucian23"
+    - "mailto:leica.lucian.QvreauID@blogger.com"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Lucian"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

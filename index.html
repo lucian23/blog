@@ -1,0 +1,53 @@
+---
+layout: default
+title: Acasă
+---
+
+<h2>Cele mai recente articole</h2>
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li class="post-item">
+      <h3 class="post-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+      <p class="post-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%d %B %Y" }}
+        </time>
+        {% if post.categories.size > 0 %}
+          • 
+          {% for category in post.categories %}
+            <span class="category">{{ category }}</span>
+            {% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        {% endif %}
+      </p>
+      <p class="post-excerpt">
+        {{ post.excerpt | strip_html | truncatewords: 50 }}
+      </p>
+      <a href="{{ post.url | relative_url }}" class="read-more">Citește mai mult →</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<style>
+.read-more {
+  display: inline-block;
+  color: #667eea;
+  text-decoration: none;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
+
+.category {
+  background-color: #f0f0f0;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.8rem;
+}
+</style>

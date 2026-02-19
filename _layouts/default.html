@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ro">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      {% if page.title %}
+        {{ page.title }} | {{ site.title }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+    {% seo %}
+  </head>
+  <body>
+    <header>
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
+      <nav>
+        <a href="{{ '/' | relative_url }}">Acasă</a>
+        <a href="{{ '/despre' | relative_url }}">Despre</a>
+        <a href="{{ '/contact' | relative_url }}">Contact</a>
+      </nav>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <p>
+        &copy; {{ site.time | date: '%Y' }} {{ site.author }}.
+        Blogul este construit cu <a href="https://jekyllrb.com/">Jekyll</a> și găzduit pe <a href="https://pages.github.com/">GitHub Pages</a>.
+      </p>
+      <p>
+        {% if site.github_username %}
+          <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+        {% endif %}
+        {% if site.email %}
+          | <a href="mailto:{{ site.email }}">Email</a>
+        {% endif %}
+      </p>
+    </footer>
+  </body>
+</html>
