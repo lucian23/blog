@@ -59,7 +59,7 @@ Cred în:
 ## 📞 Contact
 
 Pentru întrebări, sugestii sau colaborări:
-- **Email:** leica.lucian.QvreauID@blogger.com
+- **Email:** leica.lucian@gmail.com
 - **GitHub:** [lucian23](https://github.com/lucian23)
 
 ---

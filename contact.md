@@ -12,8 +12,6 @@ Ai întrebări, sugestii sau vrei să colaborezi? Aici mă poți găsi.
 
 **Adresa principală:** leica.lucian@gmail.com
 
-**Notă:** Pentru publicare pe blogspot, folosește: `leica.lucian.QvreauID@blogger.com`
-
 ### Ce pot să te ajut cu:
 
 - **Întrebări tehnice** despre identitate digitală
