@@ -1,6 +1,6 @@
 ï»¿---
 layout: post
-title: "Identitatea DigitalÃÆ pentru PÃÆrinÃâºi: Cum sÃÆ ĂÅ½Ãâºi Protejezi Copilul Online"
+title: "Identitatea Digitală pentru Părinți: Cum să Îți Protejezi Copilul Online"
 date: 2026-02-10 10:00:00 +0200
 author: Lucian
 categories: [identitate digitala, securitate online]
