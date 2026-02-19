@@ -1,235 +1,235 @@
-﻿---
+ï»¿---
 layout: post
-title: "Dark Web Monitoring: Cum È˜tii DacÄƒ Datele Tale Sunt VÃ¢ndute pe PiaÈ›a NeagrÄƒ"
+title: "Dark Web Monitoring: Cum ÃËtii DacÃÆ Datele Tale Sunt VĂÂ¢ndute pe PiaÃâºa NeagrÃÆ"
 date: 2026-02-18 10:00:00 +0200
 author: Lucian
 categories: [securitate online, protectia datelor]
 tags: [dark web, breach de date, monitoring, piata neagra, securitate avansata]
 ---
 
-Dark Web-ul este partea ascunsÄƒ a internetului unde datele furate sunt vÃ¢ndute la cel mai mare preÈ›. IatÄƒ cum sÄƒ afli dacÄƒ datele tale fac parte din acest tranzacÈ›ionare ilegalÄƒ È™i ce sÄƒ faci dacÄƒ da.
+Dark Web-ul este partea ascunsÃÆ a internetului unde datele furate sunt vĂÂ¢ndute la cel mai mare preÃâº. IatÃÆ cum sÃÆ afli dacÃÆ datele tale fac parte din acest tranzacÃâºionare ilegalÃÆ Ãâ¢i ce sÃÆ faci dacÃÆ da.
 
-## 1. Ce este Dark Web-ul È™i de ce Ã®È›i pasÄƒ?
+## 1. Ce este Dark Web-ul Ãâ¢i de ce ĂÂ®Ãâºi pasÃÆ?
 
-### DefiniÈ›ie simplÄƒ:
+### DefiniÃâºie simplÃÆ:
 Dark Web este partea internetului care:
-- **Nu este indexatÄƒ** de motoarele de cÄƒutare obiÈ™nuite
-- **NecesitÄƒ tool-uri speciale** (Tor browser)
-- **Este anonimÄƒ** - utilizatorii È™i site-urile sunt greu de urmÄƒrit
-- **GÄƒzduieÈ™te atÃ¢t activitÄƒÈ›i legale** (jurnaliÈ™ti, disidenÈ›i) **cÃ¢t È™i ilegale**
+- **Nu este indexatÃÆ** de motoarele de cÃÆutare obiÃâ¢nuite
+- **NecesitÃÆ tool-uri speciale** (Tor browser)
+- **Este anonimÃÆ** - utilizatorii Ãâ¢i site-urile sunt greu de urmÃÆrit
+- **GÃÆzduieÃâ¢te atĂÂ¢t activitÃÆÃâºi legale** (jurnaliÃâ¢ti, disidenÃâºi) **cĂÂ¢t Ãâ¢i ilegale**
 
 ### De ce datele tale ajung acolo:
-1. **BreÈ™e de securitate** - companii hack-uite
-2. **Phishing reuÈ™it** - ai dat datele voluntar fÄƒrÄƒ sÄƒ È™tii
+1. **BreÃâ¢e de securitate** - companii hack-uite
+2. **Phishing reuÃâ¢it** - ai dat datele voluntar fÃÆrÃÆ sÃÆ Ãâ¢tii
 3. **Malware** - calculatorul infectat a furat datele
-4. **Insider threats** - angajaÈ›i care vÃ¢nd datele
+4. **Insider threats** - angajaÃâºi care vĂÂ¢nd datele
 
-## 2. Cum funcÈ›ioneazÄƒ piaÈ›a datelor pe Dark Web
+## 2. Cum funcÃâºioneazÃÆ piaÃâºa datelor pe Dark Web
 
-### Tipuri de date vÃ¢ndute È™i preÈ›urile medii (2026):
+### Tipuri de date vĂÂ¢ndute Ãâ¢i preÃâºurile medii (2026):
 
-#### InformaÈ›ii personale:
-- **NumÄƒr de card de credit** cu CVV: 15-30â‚¬
-- **Date bancare complete** (IBAN, SWIFT): 50-150â‚¬
-- **PaÈ™aport/CI scanat:** 100-500â‚¬
-- **Permis de conducere:** 50-200â‚¬
+#### InformaÃâºii personale:
+- **NumÃÆr de card de credit** cu CVV: 15-30ââÂ¬
+- **Date bancare complete** (IBAN, SWIFT): 50-150ââÂ¬
+- **PaÃâ¢aport/CI scanat:** 100-500ââÂ¬
+- **Permis de conducere:** 50-200ââÂ¬
 
 #### Conturi online:
-- **Cont Netflix/Hulu:** 1-5â‚¬
-- **Cont gaming (Steam, Epic):** 5-50â‚¬ (depinde de jocuri)
-- **Cont social media:** 10-100â‚¬ (depinde de followeri)
-- **Cont email corporativ:** 500-5000â‚¬ (pentru atacuri de tip BEC)
+- **Cont Netflix/Hulu:** 1-5ââÂ¬
+- **Cont gaming (Steam, Epic):** 5-50ââÂ¬ (depinde de jocuri)
+- **Cont social media:** 10-100ââÂ¬ (depinde de followeri)
+- **Cont email corporativ:** 500-5000ââÂ¬ (pentru atacuri de tip BEC)
 
 #### Date medicale:
-- **FiÈ™Äƒ medicalÄƒ completÄƒ:** 500-1000â‚¬
-- **Date asigurÄƒri medicale:** 200-800â‚¬
+- **FiÃâ¢ÃÆ medicalÃÆ completÃÆ:** 500-1000ââÂ¬
+- **Date asigurÃÆri medicale:** 200-800ââÂ¬
 
-### Cum sunt vÃ¢ndute:
-- **Forums private** - acces doar pentru membri verificaÈ›i
+### Cum sunt vĂÂ¢ndute:
+- **Forums private** - acces doar pentru membri verificaÃâºi
 - **Marketplaces** - ca Amazon, dar pentru date furate
-- **AplicaÈ›ii de mesagerie criptate** - vÃ¢nzare directÄƒ
-- **Auction sites** - licitaÈ›ie pentru cele mai valoroase date
+- **AplicaÃâºii de mesagerie criptate** - vĂÂ¢nzare directÃÆ
+- **Auction sites** - licitaÃâºie pentru cele mai valoroase date
 
-## 3. Cum sÄƒ verifici dacÄƒ datele tale sunt pe Dark Web
+## 3. Cum sÃÆ verifici dacÃÆ datele tale sunt pe Dark Web
 
 ### Metode gratuite:
 
 #### 1. Have I Been Pwned (HIBP)
 - **Site:** https://haveibeenpwned.com
-- **Ce face:** VerificÄƒ email-ul È™i telefonul Ã®n baze de date publice de breÈ™e
-- **LimitÄƒri:** Doar breÈ™e cunoscute public, nu Dark Web live
+- **Ce face:** VerificÃÆ email-ul Ãâ¢i telefonul ĂÂ®n baze de date publice de breÃâ¢e
+- **LimitÃÆri:** Doar breÃâ¢e cunoscute public, nu Dark Web live
 
 #### 2. Firefox Monitor
-- **Integrat Ã®n Firefox** - verificare automatÄƒ
-- **Alerta Ã®n browser** dacÄƒ email-ul apare Ã®ntr-o breÈ™Äƒ
-- **Doar pentru breÈ™e publice**
+- **Integrat ĂÂ®n Firefox** - verificare automatÃÆ
+- **Alerta ĂÂ®n browser** dacÃÆ email-ul apare ĂÂ®ntr-o breÃâ¢ÃÆ
+- **Doar pentru breÃâ¢e publice**
 
 #### 3. Google Password Checkup
-- **Integrat Ã®n Chrome/Android**
-- **VerificÄƒ parolele** dacÄƒ apar Ã®n breÈ™e
+- **Integrat ĂÂ®n Chrome/Android**
+- **VerificÃÆ parolele** dacÃÆ apar ĂÂ®n breÃâ¢e
 - **Sugestii pentru schimbare**
 
 ### Servicii de monitoring premium:
 
 #### 1. Experian Dark Web Monitoring
-- **PreÈ›:** 10-20â‚¬/lunÄƒ
-- **Ce monitorizeazÄƒ:** Email, telefon, nume, adresÄƒ, CNP
-- **AlertÄƒ Ã®n timp real** cÃ¢nd datele apar
-- **AsistenÈ›Äƒ pentru recuperare**
+- **PreÃâº:** 10-20ââÂ¬/lunÃÆ
+- **Ce monitorizeazÃÆ:** Email, telefon, nume, adresÃÆ, CNP
+- **AlertÃÆ ĂÂ®n timp real** cĂÂ¢nd datele apar
+- **AsistenÃâºÃÆ pentru recuperare**
 
 #### 2. Norton LifeLock
-- **PreÈ›:** 15-30â‚¬/lunÄƒ
-- **Monitoring comprehensiv** + asigurare Ã®mpotriva furtului de identitate
-- **Recuperare asistatÄƒ** de specialiÈ™ti
+- **PreÃâº:** 15-30ââÂ¬/lunÃÆ
+- **Monitoring comprehensiv** + asigurare ĂÂ®mpotriva furtului de identitate
+- **Recuperare asistatÃÆ** de specialiÃâ¢ti
 
 #### 3. IdentityForce
-- **PreÈ›:** 20-40â‚¬/lunÄƒ
+- **PreÃâº:** 20-40ââÂ¬/lunÃÆ
 - **Pentru high-net-worth individuals**
-- **Monitoring global** pe toate pieÈ›ele Dark Web
+- **Monitoring global** pe toate pieÃâºele Dark Web
 
-## 4. Semne cÄƒ datele tale ar putea fi pe Dark Web
+## 4. Semne cÃÆ datele tale ar putea fi pe Dark Web
 
 ### Semne directe:
-- **AlertÄƒ de la serviciu de monitoring**
-- **NotificÄƒri de login suspecte** pe conturile tale
-- **TranzacÈ›ii neautorizate** pe carduri bancare
+- **AlertÃÆ de la serviciu de monitoring**
+- **NotificÃÆri de login suspecte** pe conturile tale
+- **TranzacÃâºii neautorizate** pe carduri bancare
 
 ### Semne indirecte:
-- **Spam masiv** pe email-uri vechi pe care nu le foloseÈ™ti public
-- **Apeluri de la "bÄƒnci" sau "poliÈ›ie"** cerÃ¢nd confirmarea datelor
+- **Spam masiv** pe email-uri vechi pe care nu le foloseÃâ¢ti public
+- **Apeluri de la "bÃÆnci" sau "poliÃâºie"** cerĂÂ¢nd confirmarea datelor
 - **Conturi sociale pe care nu le-ai creat**
-- **Cereri de credit refuzate** fÄƒrÄƒ motiv aparent
+- **Cereri de credit refuzate** fÃÆrÃÆ motiv aparent
 
-## 5. Ce sÄƒ faci dacÄƒ datele tale sunt pe Dark Web
+## 5. Ce sÃÆ faci dacÃÆ datele tale sunt pe Dark Web
 
-### Plan de acÈ›iune imediat (prima orÄƒ):
+### Plan de acÃâºiune imediat (prima orÃÆ):
 
-#### 1. SchimbÄƒ toate parolele:
-- **ÃŽncepe cu email-ul** - este cheia tuturor conturilor
-- **FoloseÈ™te parole unice** pentru fiecare cont
-- **ActiveazÄƒ 2FA** peste tot
+#### 1. SchimbÃÆ toate parolele:
+- **ĂÅ½ncepe cu email-ul** - este cheia tuturor conturilor
+- **FoloseÃâ¢te parole unice** pentru fiecare cont
+- **ActiveazÃÆ 2FA** peste tot
 
-#### 2. ContacteazÄƒ banca:
-- **BlocheazÄƒ cardurile** imediat
+#### 2. ContacteazÃÆ banca:
+- **BlocheazÃÆ cardurile** imediat
 - **Cere carduri noi** cu numere diferite
-- **ActiveazÄƒ alertÄƒ pentru tranzacÈ›ii**
+- **ActiveazÃÆ alertÃÆ pentru tranzacÃâºii**
 
-#### 3. VerificÄƒ conturile importante:
-- **Social media** - schimbÄƒ parolele, verificÄƒ aplicaÈ›ii autorizate
-- **Cloud storage** - verificÄƒ fiÈ™ierele partajate
+#### 3. VerificÃÆ conturile importante:
+- **Social media** - schimbÃÆ parolele, verificÃÆ aplicaÃâºii autorizate
+- **Cloud storage** - verificÃÆ fiÃâ¢ierele partajate
 - **Conturi financiare** - brokeraje, crypto wallets
 
-### SÄƒptÄƒmÃ¢na 1: Securizare completÄƒ
+### SÃÆptÃÆmĂÂ¢na 1: Securizare completÃÆ
 
 #### 1. Audit complet al conturilor:
-- **ListeazÄƒ toate conturile** pe care le ai
-- **VerificÄƒ fiecare** pentru activitate suspectÄƒ
-- **È˜terge conturile nefolosite**
+- **ListeazÃÆ toate conturile** pe care le ai
+- **VerificÃÆ fiecare** pentru activitate suspectÃÆ
+- **ÃËterge conturile nefolosite**
 
-#### 2. Monitorizare activÄƒ:
-- **ConfigureazÄƒ alertÄƒ de credit** la birourile de credit
-- **InstaleazÄƒ serviciu de monitoring** dacÄƒ nu ai deja
-- **VerificÄƒ rapoartele de credit** lunar
+#### 2. Monitorizare activÃÆ:
+- **ConfigureazÃÆ alertÃÆ de credit** la birourile de credit
+- **InstaleazÃÆ serviciu de monitoring** dacÃÆ nu ai deja
+- **VerificÃÆ rapoartele de credit** lunar
 
-#### 3. EducaÈ›ie:
-- **ÃŽnvaÈ›Äƒ familia** despre semnele de avertizare
-- **CreeazÄƒ plan de rÄƒspuns** pentru viitoare incidente
-- **DocumenteazÄƒ totul** - poate fi necesar pentru poliÈ›ie/asigurÄƒri
+#### 3. EducaÃâºie:
+- **ĂÅ½nvaÃâºÃÆ familia** despre semnele de avertizare
+- **CreeazÃÆ plan de rÃÆspuns** pentru viitoare incidente
+- **DocumenteazÃÆ totul** - poate fi necesar pentru poliÃâºie/asigurÃÆri
 
-## 6. Cum sÄƒ previi apariÈ›ia datelor tale pe Dark Web
+## 6. Cum sÃÆ previi apariÃâºia datelor tale pe Dark Web
 
 ### Pentru indivizi:
 
-#### 1. Higiena digitalÄƒ de bazÄƒ:
-- **Parole unice È™i puternice** pentru fiecare cont
+#### 1. Higiena digitalÃÆ de bazÃÆ:
+- **Parole unice Ãâ¢i puternice** pentru fiecare cont
 - **2FA peste tot** unde este posibil
 - **Manager de parole** (Bitwarden, 1Password)
-- **ActualizÄƒri automate** pentru toate aplicaÈ›iile
+- **ActualizÃÆri automate** pentru toate aplicaÃâºiile
 
-#### 2. Minimalism informaÈ›ional:
-- **Nu oferi date personale** decÃ¢t cÃ¢nd este absolut necesar
-- **FoloseÈ™te alias-uri** pentru conturile nesemnificative
-- **È˜terge conturile vechi** pe care nu le mai foloseÈ™ti
+#### 2. Minimalism informaÃâºional:
+- **Nu oferi date personale** decĂÂ¢t cĂÂ¢nd este absolut necesar
+- **FoloseÃâ¢te alias-uri** pentru conturile nesemnificative
+- **ÃËterge conturile vechi** pe care nu le mai foloseÃâ¢ti
 
-#### 3. Monitorizare proactivÄƒ:
-- **VerificÄƒ HIBP** o datÄƒ pe lunÄƒ
-- **ConfigureazÄƒ alertÄƒ de credit** gratuitÄƒ
-- **FoloseÈ™te carduri virtuale** pentru plÄƒÈ›i online
+#### 3. Monitorizare proactivÃÆ:
+- **VerificÃÆ HIBP** o datÃÆ pe lunÃÆ
+- **ConfigureazÃÆ alertÃÆ de credit** gratuitÃÆ
+- **FoloseÃâ¢te carduri virtuale** pentru plÃÆÃâºi online
 
-### Pentru afaceri (dacÄƒ eÈ™ti antreprenor):
+### Pentru afaceri (dacÃÆ eÃâ¢ti antreprenor):
 
-#### 1. Securizare datelor clienÈ›ilor:
-- **Encrypt everything** - datele Ã®n repaus È™i Ã®n tranzit
-- **Access control strict** - doar cine are nevoie sÄƒ vadÄƒ
-- **Audit regulat** - cine a accesat ce È™i cÃ¢nd
+#### 1. Securizare datelor clienÃâºilor:
+- **Encrypt everything** - datele ĂÂ®n repaus Ãâ¢i ĂÂ®n tranzit
+- **Access control strict** - doar cine are nevoie sÃÆ vadÃÆ
+- **Audit regulat** - cine a accesat ce Ãâ¢i cĂÂ¢nd
 
-#### 2. RÄƒspuns la incidente:
-- **Plan de rÄƒspuns** documentat È™i testat
-- **Notificare clienÈ›i** Ã®n 72 de ore (conform GDPR)
-- **AsistenÈ›Äƒ pentru victime** - oferÄƒ monitoring gratuit
+#### 2. RÃÆspuns la incidente:
+- **Plan de rÃÆspuns** documentat Ãâ¢i testat
+- **Notificare clienÃâºi** ĂÂ®n 72 de ore (conform GDPR)
+- **AsistenÃâºÃÆ pentru victime** - oferÃÆ monitoring gratuit
 
-## 7. Servicii de monitoring - comparaÈ›ie detaliatÄƒ
+## 7. Servicii de monitoring - comparaÃâºie detaliatÃÆ
 
-| Serviciu | PreÈ›/lunÄƒ | Ce monitorizeazÄƒ | AlertÄƒ | AsistenÈ›Äƒ | Asigurare |
+| Serviciu | PreÃâº/lunÃÆ | Ce monitorizeazÃÆ | AlertÃÆ | AsistenÃâºÃÆ | Asigurare |
 |----------|-----------|------------------|--------|-----------|-----------|
-| **Experian** | 10-20â‚¬ | Email, tel, nume, adresÄƒ, CNP | Real-time | Da | PÃ¢nÄƒ la 1Mâ‚¬ |
-| **Norton** | 15-30â‚¬ | Comprehensive + credit | Real-time | 24/7 | PÃ¢nÄƒ la 1Mâ‚¬ |
-| **IdentityForce** | 20-40â‚¬ | Global + social media | Real-time | Premium | PÃ¢nÄƒ la 1Mâ‚¬ |
+| **Experian** | 10-20ââÂ¬ | Email, tel, nume, adresÃÆ, CNP | Real-time | Da | PĂÂ¢nÃÆ la 1MââÂ¬ |
+| **Norton** | 15-30ââÂ¬ | Comprehensive + credit | Real-time | 24/7 | PĂÂ¢nÃÆ la 1MââÂ¬ |
+| **IdentityForce** | 20-40ââÂ¬ | Global + social media | Real-time | Premium | PĂÂ¢nÃÆ la 1MââÂ¬ |
 | **Credit Karma** | Gratuit | Doar credit | Periodic | Nu | Nu |
-| **HIBP** | Gratuit | Doar breÈ™e publice | Manual | Nu | Nu |
+| **HIBP** | Gratuit | Doar breÃâ¢e publice | Manual | Nu | Nu |
 
-## 8. Cazuri reale È™i lecÈ›ii Ã®nvÄƒÈ›ate
+## 8. Cazuri reale Ãâ¢i lecÃâºii ĂÂ®nvÃÆÃâºate
 
 ### Cazul Equifax (2017):
-- **Ce s-a Ã®ntÃ¢mplat:** BreÈ™Äƒ care a expus 147 milioane de persoane
+- **Ce s-a ĂÂ®ntĂÂ¢mplat:** BreÃâ¢ÃÆ care a expus 147 milioane de persoane
 - **Date expuse:** Nume, adrese, CNP-uri, date de credit
-- **LecÈ›ie:** Companiile mari nu sunt automat sigure
-- **AcÈ›iune recomandatÄƒ:** ÃŽngheaÈ›Äƒ creditul gratuit la toate birourile
+- **LecÃâºie:** Companiile mari nu sunt automat sigure
+- **AcÃâºiune recomandatÃÆ:** ĂÅ½ngheaÃâºÃÆ creditul gratuit la toate birourile
 
 ### Cazul Facebook (2019):
-- **Ce s-a Ã®ntÃ¢mplat:** 533 milioane de conturi expuse
-- **Date expuse:** Telefoane, nume, locaÈ›ii, uneori email-uri
-- **LecÈ›ie:** Datele pe social media sunt extrem de valoroase
-- **AcÈ›iune recomandatÄƒ:** MinimizeazÄƒ informaÈ›iile personale pe social media
+- **Ce s-a ĂÂ®ntĂÂ¢mplat:** 533 milioane de conturi expuse
+- **Date expuse:** Telefoane, nume, locaÃâºii, uneori email-uri
+- **LecÃâºie:** Datele pe social media sunt extrem de valoroase
+- **AcÃâºiune recomandatÃÆ:** MinimizeazÃÆ informaÃâºiile personale pe social media
 
 ### Cazul Colonial Pipeline (2021):
-- **Ce s-a Ã®ntÃ¢mplat:** Atac ransomware prin cont furat
-- **Date expuse:** CredenÈ›iale de angajat vÃ¢ndute pe Dark Web
-- **LecÈ›ie:** Conturile corporative valoreazÄƒ mult mai mult
-- **AcÈ›iune recomandatÄƒ:** Securitate extra pentru conturile de lucru
+- **Ce s-a ĂÂ®ntĂÂ¢mplat:** Atac ransomware prin cont furat
+- **Date expuse:** CredenÃâºiale de angajat vĂÂ¢ndute pe Dark Web
+- **LecÃâºie:** Conturile corporative valoreazÃÆ mult mai mult
+- **AcÃâºiune recomandatÃÆ:** Securitate extra pentru conturile de lucru
 
 ## 9. Viitorul monitoring-ului Dark Web
 
-### TendinÈ›e 2026-2030:
-1. **AI-powered monitoring** - detectare mai rapidÄƒ È™i mai precisÄƒ
-2. **Blockchain for identity** - datele nu mai pot fi furate Ã®n format tradiÈ›ional
-3. **Decentralized monitoring** - comunitÄƒÈ›i care se monitorizeazÄƒ reciproc
-4. **Real-time takedown** - automatizarea eliminÄƒrii datelor din Dark Web
+### TendinÃâºe 2026-2030:
+1. **AI-powered monitoring** - detectare mai rapidÃÆ Ãâ¢i mai precisÃÆ
+2. **Blockchain for identity** - datele nu mai pot fi furate ĂÂ®n format tradiÃâºional
+3. **Decentralized monitoring** - comunitÃÆÃâºi care se monitorizeazÃÆ reciproc
+4. **Real-time takedown** - automatizarea eliminÃÆrii datelor din Dark Web
 
 ### Tehnologii emergente:
-- **Quantum-resistant encryption** - pentru cÃ¢nd computerele cuantice vor sparge criptarea actualÄƒ
-- **Homomorphic encryption** - procesarea datelor fÄƒrÄƒ a le decripta
-- **Zero-knowledge proofs** - dovedeÈ™ti cÄƒ ai dreptul la ceva fÄƒrÄƒ a dezvÄƒlui informaÈ›ii
+- **Quantum-resistant encryption** - pentru cĂÂ¢nd computerele cuantice vor sparge criptarea actualÃÆ
+- **Homomorphic encryption** - procesarea datelor fÃÆrÃÆ a le decripta
+- **Zero-knowledge proofs** - dovedeÃâ¢ti cÃÆ ai dreptul la ceva fÃÆrÃÆ a dezvÃÆlui informaÃâºii
 
 ## 10. Concluzie - Este monitoring-ul Dark Web necesar?
 
-### Pentru cine este esenÈ›ial:
-- **Oameni publici** - È›inte mai mari pentru atacatori
+### Pentru cine este esenÃâºial:
+- **Oameni publici** - Ãâºinte mai mari pentru atacatori
 - **High-net-worth individuals** - mai mult de pierdut
-- **Antreprenori** - risc pentru afacere È™i clienÈ›i
-- **Oricine a fost deja victima** - prevenirea revictimizÄƒrii
+- **Antreprenori** - risc pentru afacere Ãâ¢i clienÃâºi
+- **Oricine a fost deja victima** - prevenirea revictimizÃÆrii
 
 ### Pentru cine este "nice to have":
-- **Tineri** - datele au valoare mai micÄƒ (fÄƒrÄƒ istoric de credit)
-- **Minimalists digitali** - puÈ›ine date online de furat
-- **Oameni cu securitate excelentÄƒ** deja implementatÄƒ
+- **Tineri** - datele au valoare mai micÃÆ (fÃÆrÃÆ istoric de credit)
+- **Minimalists digitali** - puÃâºine date online de furat
+- **Oameni cu securitate excelentÃÆ** deja implementatÃÆ
 
 ### Recomandarea mea:
-**ÃŽncepe gratuit:** HIBP + alertÄƒ de credit gratuitÄƒ  
-**DacÄƒ ai motive sÄƒ fii Ã®ngrijorat:** Serviciu premium de 10-20â‚¬/lunÄƒ  
-**DacÄƒ eÈ™ti È›intÄƒ high-value:** SoluÈ›ie premium de 30-40â‚¬/lunÄƒ
+**ĂÅ½ncepe gratuit:** HIBP + alertÃÆ de credit gratuitÃÆ  
+**DacÃÆ ai motive sÃÆ fii ĂÂ®ngrijorat:** Serviciu premium de 10-20ââÂ¬/lunÃÆ  
+**DacÃÆ eÃâ¢ti ÃâºintÃÆ high-value:** SoluÃâºie premium de 30-40ââÂ¬/lunÃÆ
 
-**Cel mai important:** Indiferent de serviciul ales, **acÈ›iunea rapidÄƒ** cÃ¢nd primeÈ™ti o alertÄƒ face diferenÈ›a dintre un inconvenient minor È™i un dezastru financiar.
+**Cel mai important:** Indiferent de serviciul ales, **acÃâºiunea rapidÃÆ** cĂÂ¢nd primeÃâ¢ti o alertÃÆ face diferenÃâºa dintre un inconvenient minor Ãâ¢i un dezastru financiar.
 
-**ÃŽntrebare pentru tine:** Ai verificat vreodatÄƒ dacÄƒ datele tale sunt pe Dark Web? Care a fost experienÈ›a ta?
+**ĂÅ½ntrebare pentru tine:** Ai verificat vreodatÃÆ dacÃÆ datele tale sunt pe Dark Web? Care a fost experienÃâºa ta?
 
