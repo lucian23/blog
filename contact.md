@@ -10,7 +10,9 @@ Ai întrebări, sugestii sau vrei să colaborezi? Aici mă poți găsi.
 
 ## 📧 Email
 
-**Adresa principală:** leica.lucian.QvreauID@blogger.com
+**Adresa principală:** leica.lucian@gmail.com
+
+**Notă:** Pentru publicare pe blogspot, folosește: `leica.lucian.QvreauID@blogger.com`
 
 ### Ce pot să te ajut cu:
 
